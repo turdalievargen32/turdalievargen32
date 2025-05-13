@@ -13,7 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-<img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/external-assembly-technology-flat-icons-inmotus-design.png" width="40"/>
 
 <!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
@@ -23,14 +22,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 
-<!-- ML / DS -->
+<!-- Frameworks / ML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/>
-<img src="https://networkx.org/documentation/stable/_static/networkx_logo.svg" width="40"/>
+
+</div>
+
 
 </div>
 
