@@ -1,7 +1,9 @@
 # 👋 Hi there! I'm Argen Turdaliev
 
 🎓 I'm a 2nd-year Bachelor's student in **Applied Computer Science and Artificial Intelligence** at Sapienza University of Rome.  
-🇰🇬 Originally from **Kyrgyzstan**. Passionate about  **Machine Learning**, and **Software Engineering**.
+🇰🇬 Originally from **Kyrgyzstan**. Passionate about **Cyber Security**, **Machine Learning**, and **Software Engineering**.
+
+---
 
 ---
 ## 🔧 Tech Stack / Skills
